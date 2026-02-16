@@ -34,7 +34,7 @@ The `LLMService` class acts as a router:
 4. **Build**:
    ```bash
    npm install
-   npm run tauri dev
+   npm run dev
    ```
 
 ## ✅ PDF Requirements Satisfied
