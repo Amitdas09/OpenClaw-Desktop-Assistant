@@ -1,0 +1,8 @@
+{
+  "name": "OpenClaw Desktop Assistant",
+  "description": "A conversational UI-first desktop assistant wrapper for OpenClaw automation, featuring local/cloud LLM switching and agent management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
