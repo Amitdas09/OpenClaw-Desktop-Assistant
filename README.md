@@ -36,6 +36,11 @@ The `LLMService` class acts as a router:
    npm install
    npm run dev
    ```
+## Outputs
+
+<img width="1916" height="858" alt="open claw 2" src="https://github.com/user-attachments/assets/bb38eb2f-ab46-4a56-807e-27a779974191" />
+<img width="1918" height="861" alt="agent" src="https://github.com/user-attachments/assets/7f8adbb0-38e2-4e07-9ee5-239518d11f59" />
+
 
 ## ✅ PDF Requirements Satisfied
 - [x] Conversational Onboarding.
