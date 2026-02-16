@@ -37,10 +37,9 @@ The `LLMService` class acts as a router:
    npm run dev
    ```
 ## Outputs
-### 1. Overview
+###  Overview and Agent Configration Page
 <img width="1916" height="858" alt="open claw 2" src="https://github.com/user-attachments/assets/bb38eb2f-ab46-4a56-807e-27a779974191" />
-
-### 2. Agent Configration Page
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="1918" height="861" alt="agent" src="https://github.com/user-attachments/assets/7f8adbb0-38e2-4e07-9ee5-239518d11f59" />
 
 
