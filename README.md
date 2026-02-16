@@ -25,7 +25,7 @@ The `LLMService` class acts as a router:
 ### 2. Hashtag Discovery Agent (Agent 2)
 - **Goal**: Monitor the `#openclaw` community.
 - **Safety**: Discovery Only (Read-Only).
-- **Logic**: Heartbeat pulse every 60 seconds captures a unique post ID and logs it for Amit.
+- **Logic**: Heartbeat pulse every 60 seconds captures a unique post ID and logs it for User.
 
 ## 🛠 Local Setup Instructions
 1. **Prerequisites**: Install Node.js, Rust (rustup), and Ollama.
